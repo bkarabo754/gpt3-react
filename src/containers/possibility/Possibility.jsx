@@ -10,7 +10,8 @@ const Possibility = () => (
     <div className="gpt3__possibility-content">
       <h4>Request Early Access to Get Started</h4>
       <h1 className="gradient__text">The possibilities are <br /> beyond your imagination</h1>
-      <p>Yet bed any for travelling assistance indulgence unpleasing. Not thoughts all exercise blessing. Indulgence way everything joy alteration boisterous the attachment. Party we years to order allow asked of.</p>
+      <p>How powerful is GPT-3?
+GPT-3 can be used for a wide range of tasks, such as generating text, answering questions, and translating languages. It is considered to be one of the most advanced language processing AI systems in the world, and is capable of providing highly accurate and realistic responses to a wide range of inputs.</p>
       <h4>Request Early Access to Get Started</h4>
     </div>
   </div>
